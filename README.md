@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning
+### ✨ This is the account I use for university work
 <!--
 **JoseSLK/JoseSLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
