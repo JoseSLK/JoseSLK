@@ -1,5 +1,6 @@
 ### Hi i'm Jose Salamanca :whale2:
 ### This is the account I use for university work and personal projects
+![Static Badge](https://img.shields.io/badge/UPTC-%20%23ffcc29?labelColor=black)
 ## 
 
 #### Languages:
