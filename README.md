@@ -2,7 +2,7 @@
 
 ### This is the account I use for university work and personal projects
 
-### I'm currently studying Software Engineering at [![Static Badge](https://img.shields.io/badge/UPTC-%20%23ffcc29?labelColor=black)](https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/iii/sedes/sogamoso.html)
+### I'm currently studying Software Engineering at [![Static Badge](https://img.shields.io/badge/UPTC-%20%23ffcc29?labelColor=black)](https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_sog/sog/)
 ## 
 
 #### Currently Exploring: 🧐👍
