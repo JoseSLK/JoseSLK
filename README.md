@@ -15,12 +15,9 @@
         :whale2:
     </summary>
     <p style="font-size: 16px; line-height: 1.6;">
-        No sé muchas cosas, pero si me pagan, ¡aprendo y lo desarrollo! <br>
+        👍
     </p>
 </details>
 
-<div align="center">
-    <img src="Wallace_dog.gif" style="height: 200px; width: auto;">
-</div>
 
 
