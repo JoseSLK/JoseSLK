@@ -1,6 +1,6 @@
-### *Hi i'm Jose Salamanca* :whale2:
+### _Hi i'm Jose Salamanca_ :whale2:
 
-#### *Software Engineering student at UPTC passionate about building reliable software through solid engineering principles. I enjoy tackling challenges across the full stack. Currently deep-diving into Java (my main focus!), while also building interactive experiences with JavaScript/React and refining my CSS skills. My aim? To engineer impactful products professionally using either Java or CSS. Familiar with Python and databases like MySQL/Oracle.*
+### _Software Engineering student at UPTC passionate about building reliable software through solid engineering principles. I enjoy tackling challenges across the full stack. Currently deep-diving into Java (my main focus!), while also building interactive experiences with JavaScript/React and refining my CSS skills. My aim? To engineer impactful products professionally using either Java or CSS. Familiar with Python and databases like MySQL/Oracle._
 
 #### Currently Exploring: 🧐👍
 
@@ -41,5 +41,3 @@
   </tr>
 </table>
 
-<br/> <p align="center"> <img src="ci.gif" alt="A relevant GIF" width="400px">
-</p>
