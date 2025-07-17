@@ -1,45 +1,55 @@
-𝖧𝗂 𝗂'𝗆 𝖩𝗈𝗌𝖾 𝖲𝖺𝗅𝖺𝗆𝖺𝗇𝖼𝖺 :whale2:
+### 👋 ¡Hola! Soy Jose Salamanca
 
-𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 𝖺𝗍 𝖴𝖯𝖳𝖢 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝖺𝖻𝗈𝗎𝗍 𝖻𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝗋𝖾𝗅𝗂𝖺𝖻𝗅𝖾 𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝗍𝗁𝗋𝗈𝗎𝗀𝗁 𝗌𝗈𝗅𝗂𝖽 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝗉𝗋𝗂𝗇𝖼𝗂𝗉𝗅𝖾𝗌. 𝖨 𝖾𝗇𝗃𝗈𝗒 𝗍𝖺𝖼𝗄𝗅𝗂𝗇𝗀 𝖼𝗁𝖺𝗅𝗅𝖾𝗇𝗀𝖾𝗌 𝖺𝖼𝗋𝗈𝗌𝗌 𝗍𝗁𝖾 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄. 𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖽𝖾𝖾𝗉-𝖽𝗂𝗏𝗂𝗇𝗀 𝗂𝗇𝗍𝗈 𝖩𝖺𝗏𝖺 (𝗆𝗒 𝗆𝖺𝗂𝗇 𝖿𝗈𝖼𝗎𝗌!), 𝗐𝗁𝗂𝗅𝖾 𝖺𝗅𝗌𝗈 𝖻𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝗂𝗇𝗍𝖾𝗋𝖺𝖼𝗍𝗂𝗏𝖾 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾𝗌 𝗐𝗂𝗍𝗁 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖱𝖾𝖺𝖼𝗍 𝖺𝗇𝖽 𝗋𝖾𝖿𝗂𝗇𝗂𝗇𝗀 𝗆𝗒 𝖢𝖲𝖲 𝗌𝗄𝗂𝗅𝗅𝗌. 𝖬𝗒 𝖺𝗂𝗆? 𝖳𝗈 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝗂𝗆𝗉𝖺𝖼𝗍𝖿𝗎𝗅 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌 𝗉𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅𝗅𝗒 𝗎𝗌𝗂𝗇𝗀 𝖾𝗂𝗍𝗁𝖾𝗋 𝖩𝖺𝗏𝖺 𝗈𝗋 𝖢𝖲𝖲. 𝖥𝖺𝗆𝗂𝗅𝗂𝖺𝗋 𝗐𝗂𝗍𝗁 𝖯𝗒𝗍𝗁𝗈𝗇 𝖺𝗇𝖽 𝖽𝖺𝗍𝖺𝖻𝖺𝗌𝖾𝗌 𝗅𝗂𝗄𝖾 𝖬𝗒𝖲𝖰𝖫/𝖮𝗋𝖺𝖼𝗅𝖾.
+Estudiante de Ingeniería de Sistemas en la UPTC, enfocado en la construcción de software robusto y escalable. Mi trabajo se centra en aplicar sólidos principios de ingeniería para resolver problemas complejos, desde el diseño de la arquitectura hasta la optimización del rendimiento.
 
-𝖬𝗒 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄 & 𝖲𝗄𝗂𝗅𝗅𝗌:
+Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y tengo un profundo interés en la intersección de esta disciplina con los modernos **sistemas de inteligencia artificial** y la infraestructura que los soporta (DevOps/MLOps).
 
-<table width="100%">
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      𝖡𝖺𝖼𝗄𝖾𝗇𝖽:
-      <br/>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>&nbsp;
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>&nbsp;
     </td>
-    <td width="50%" valign="top">
-      𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽:
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjZmZmIi8+CiAgPGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsbD0ibm9uZSI+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiLz4KICAgIDxlbGxpcHNlIHJ4PSIxMSIgcnk9IjQuMiIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDEyMCkiLz4KICA8L2c+Cjwvc3ZnPgo=" alt="React Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3 Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" alt="HTML5 Badge"/>&nbsp;
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>&nbsp;
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾𝗌:
-      <br/>
+    <td valign="top" width="50%">
+      <strong>Bases de Datos</strong><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>&nbsp;
     </td>
-    <td width="50%" valign="top">
-      𝖳𝗈𝗈𝗅𝗌 & 𝖮𝗍𝗁𝖾𝗋 𝖲𝗄𝗂𝗅𝗅𝗌:
-      <br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>&nbsp;
+    <td valign="top" width="50%">
+      <strong>DevOps & Infraestructura</strong><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>&nbsp;
+    </td>
+  </tr>
+   <tr>
+    <td valign="top" colspan="2">
+      <strong>Intereses en IA & Machine Learning</strong><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>&nbsp;
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face Badge"/>&nbsp;
     </td>
   </tr>
 </table>
 
-#
+---
 
-<p align="center">🍬 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑖𝑛 𝑁𝑜𝑡𝑒𝑠𝑉𝑎𝑢𝑙𝑡 𝑎 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑤𝑖𝑡ℎ <a href="https://github.com/monxvoll" style="color: gold;">@monxvoll</a> 🍬</p>
+### 🚀 Proyectos Destacados
+
+<p align="center">🍬 <a href="https://github.com/monxvoll/NotesVault" style="color: gold;">𝑁𝑜𝑡𝑒𝑠𝑉𝑎𝑢𝑙𝑡</a> 𝑎 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑤𝑖𝑡ℎ <a href="https://github.com/monxvoll" style="color: gold;">@monxvoll</a> 🍬</p>
+
+### 📫 Contacto
+
+* **LinkedIn:** [Jose Salamanca](https://www.linkedin.com/in/jose-luis-salamanca-lopez-192365247/) * **Correo:** joseloisjs@hotmail.com
