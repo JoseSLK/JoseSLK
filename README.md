@@ -48,7 +48,7 @@ Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y t
 
 ### 🚀 Proyectos Destacados
 
-<p align="center">🍬 <a href="https://github.com/monxvoll/NotesVault" style="color: gold;">𝑁𝑜𝑡𝑒𝑠𝑉𝑎𝑢𝑙𝑡</a> 𝑎 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑤𝑖𝑡ℎ <a href="https://github.com/monxvoll" style="color: gold;">@monxvoll</a> 🍬</p>
+<p>🍬 <a href="https://github.com/monxvoll/NotesVault" style="color: gold;">𝑁𝑜𝑡𝑒𝑠𝑉𝑎𝑢𝑙𝑡</a> 𝑎 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑤𝑖𝑡ℎ <a href="https://github.com/monxvoll" style="color: gold;">@monxvoll</a> 🍬</p>
 
 ### 📫 Contacto
 
