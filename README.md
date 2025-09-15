@@ -52,4 +52,4 @@ Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y t
 
 ### 📫 Contacto
 
-* **LinkedIn:** [Jose Salamanca](https://www.linkedin.com/in/jose-luis-salamanca-lopez-192365247/) * **Correo:** joseloisjs@hotmail.com
+* **LinkedIn:** [Jose Salamanca](https://www.linkedin.com/in/jose-luis-salamanca-lopez-192365247/) *
