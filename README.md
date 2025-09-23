@@ -1,8 +1,8 @@
 ### 👋 ¡Hola! Soy Jose Salamanca
 
-Estudiante de Ingeniería de Sistemas en la UPTC, enfocado en la construcción de software robusto y escalable. Mi trabajo se centra en aplicar sólidos principios de ingeniería para resolver problemas complejos, desde el diseño de la arquitectura hasta la optimización del rendimiento.
+Estudiante de Ingeniería de Sistemas en la UPTC
 
-Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y tengo un profundo interés en la intersección de esta disciplina con los modernos **sistemas de inteligencia artificial** y la infraestructura que los soporta (DevOps/MLOps).
+<!-- enfocado en la construcción de software robusto y escalable. Mi trabajo se centra en aplicar sólidos principios de ingeniería para resolver problemas complejos, desde el diseño de la arquitectura hasta la optimización del rendimiento. Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y tengo un profundo interés en la intersección de esta disciplina con los modernos **sistemas de inteligencia artificial** y la infraestructura que los soporta (DevOps/MLOps). -->
 
 ---
 
