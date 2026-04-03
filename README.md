@@ -1,55 +1,54 @@
-### 👋 ¡Hola! Soy Jose Salamanca
+Backend por convicción, curioso por naturaleza.
 
-Estudiante de Ingeniería de Sistemas en la UPTC
-
-<!-- enfocado en la construcción de software robusto y escalable. Mi trabajo se centra en aplicar sólidos principios de ingeniería para resolver problemas complejos, desde el diseño de la arquitectura hasta la optimización del rendimiento. Disfruto especialmente el desarrollo backend con **Java** y **Spring Boot**, y tengo un profundo interés en la intersección de esta disciplina con los modernos **sistemas de inteligencia artificial** y la infraestructura que los soporta (DevOps/MLOps). -->
+Pienso en la arquitectura antes que en el lenguaje. Estudiando teoría de IA por cuenta propia.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+**Backend**
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>&nbsp;
-    </td>
-    <td valign="top" width="50%">
-      <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Bases de Datos</strong><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>&nbsp;
-    </td>
-    <td valign="top" width="50%">
-      <strong>DevOps & Infraestructura</strong><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>&nbsp;
-    </td>
-  </tr>
-   <tr>
-    <td valign="top" colspan="2">
-      <strong>Intereses en IA & Machine Learning</strong><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>&nbsp;
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face Badge"/>&nbsp;
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Infraestructura & Datos**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos
 
-<p>🍬 <a href="https://github.com/monxvoll/NotesVault" style="color: gold;">𝑁𝑜𝑡𝑒𝑠𝑉𝑎𝑢𝑙𝑡</a> 𝑎 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑤𝑖𝑡ℎ <a href="https://github.com/monxvoll" style="color: gold;">@monxvoll</a> 🍬</p>
+👖 [WeiCloth](https://github.com/monxvoll/WeiCloth) — Shazam para tu ropa · con [@monxvoll](https://github.com/monxvoll)
 
-### 📫 Contacto
+🍬 [NotesVault](https://github.com/monxvoll/NotesVault) — con [@monxvoll](https://github.com/monxvoll)
 
-* **LinkedIn:** [Jose Salamanca](https://www.linkedin.com/in/jose-luis-salamanca-lopez-192365247/) *
+🌾 [uptc-field-collector](https://github.com/DumarMalpica/uptc-field-collector) — app móvil Flutter · con [@DumarMalpica](https://github.com/DumarMalpica)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/joseslk/)
+
+<sub>hay una película de Tarkovsky pausada en algún lado</sub>
+
+<p align="center">☔</p>
+
+<!--
+  dirigido por nadie
+  sin presupuesto
+  sin final feliz
+  duración: hasta que compile
+-->
