@@ -1,7 +1,3 @@
-Backend por convicción, curioso por naturaleza.
-
-Pienso en la arquitectura antes que en el lenguaje. Estudiando teoría de IA por cuenta propia.
-
 ---
 
 **Backend**
